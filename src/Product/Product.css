@@ -1,0 +1,14 @@
+.Product {
+    float: left;
+    border: solid 1px;
+    min-height: 130px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Product .name {
+    font-weight: bold;
+    text-align: center;
+    border-bottom: solid 1px;
+    margin-bottom: 15px;
+}
